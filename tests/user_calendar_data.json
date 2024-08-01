@@ -1,0 +1,112 @@
+{
+  "2024-02-01T12:30:00+02:00alene": {
+    "summary": "PSS Dbn Group 1",
+    "startTime": "2024-02-01T12:30:00+02:00",
+    "endTime": "2024-02-01T14:00:00+02:00",
+    "creator": {
+      "email": "alene@wethinkcode.co.za"
+    },
+    "eventId": "cgpmao9pcopj2b9g69gm6b9k71j3cbb160sj0b9j6gomcd356di3coj6co",
+    "attendees": [
+      {
+        "email": "adudumayo023@student.wethinkcode.co.za",
+        "responseStatus": "needsAction"
+      },
+      {
+        "email": "akhan023@student.wethinkcode.co.za",
+        "responseStatus": "declined"
+      },
+      {
+        "email": "alene@wethinkcode.co.za",
+        "organizer": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "amnikathi023@student.wethinkcode.co.za",
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "amsabala023@student.wethinkcode.co.za",
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  "2024-03-07T12:30:00+02:00alene": {
+    "summary": "PSS Dbn Group 1",
+    "startTime": "2024-03-07T12:30:00+02:00",
+    "endTime": "2024-03-07T14:00:00+02:00",
+    "creator": {
+      "email": "alene@wethinkcode.co.za"
+    },
+    "eventId": "cgpmao9pcopj2b9g69gm6b9k71j3cbb160sj0b9j6gomcd356di3coj6co_20240307T103000Z",
+    "attendees": [
+      {
+        "email": "adudumayo023@student.wethinkcode.co.za",
+        "responseStatus": "needsAction"
+      },
+      {
+        "email": "akhan023@student.wethinkcode.co.za",
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "alene@wethinkcode.co.za",
+        "organizer": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "amnikathi023@student.wethinkcode.co.za",
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "amsabala023@student.wethinkcode.co.za",
+        "responseStatus": "accepted"
+      }
+    ]
+  },
+  "2024-03-01T15:00:00+02:00lluswazi023": {
+    "summary": "Available Coding Clinic session by lluswazi023 as Volunteer",
+    "startTime": "2024-03-01T15:00:00+02:00",
+    "endTime": "2024-03-01T15:30:00+02:00",
+    "creator": {
+      "email": "lluswazi023@student.wethinkcode.co.za",
+      "self": true
+    },
+    "eventId": "2ugqj7u888dlt58ao6ok558dmc",
+    "location": "WeThinkCode_, Durban Club Pl, Durban Central, Durban, 4001, South Africa"
+  },
+  "2024-03-02": {
+    "summary": "N/A",
+    "startTime": "N/A",
+    "endTime": "N/A",
+    "creator": "N/A",
+    "campus": "N/A"
+  },
+  "2024-03-03": {
+    "summary": "N/A",
+    "startTime": "N/A",
+    "endTime": "N/A",
+    "creator": "N/A",
+    "campus": "N/A"
+  },
+  "2024-03-04": {
+    "summary": "N/A",
+    "startTime": "N/A",
+    "endTime": "N/A",
+    "creator": "N/A",
+    "campus": "N/A"
+  },
+  "2024-03-05": {
+    "summary": "N/A",
+    "startTime": "N/A",
+    "endTime": "N/A",
+    "creator": "N/A",
+    "campus": "N/A"
+  },
+  "2024-03-06": {
+    "summary": "N/A",
+    "startTime": "N/A",
+    "endTime": "N/A",
+    "creator": "N/A",
+    "campus": "N/A"
+  }
+}
